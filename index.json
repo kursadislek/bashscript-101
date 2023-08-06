@@ -1,0 +1,67 @@
+{
+    "scenario": {
+        "steps": [
+            {
+                "text": "step1.md",
+                "verify": "verify1.json"
+            }
+            {
+                "text": "step1.md",
+                "verify": "verify2.json"
+            }
+            {
+                "text": "step1.md",
+                "verify": "verify3.json"
+            }
+            {
+                "text": "step1.md",
+                "verify": "verify4.json"
+            }
+            {
+                "text": "step1.md",
+                "verify": "verify5.json"
+            }
+            {
+                "text": "step1.md",
+                "verify": "verify6.json"
+            }
+            {
+                "text": "step1.md",
+                "verify": "verify7.json"
+            }
+            {
+                "text": "step1.md",
+                "verify": "verify8.json"
+            }
+            {
+                "text": "step1.md",
+                "verify": "verify9.json"
+            }
+            {
+                "text": "step1.md",
+                "verify": "verify10.json"
+            }
+            {
+                "text": "step1.md",
+                "verify": "verify11.json"
+            }
+            {
+                "text": "step1.md",
+                "verify": "verify12.json"
+            }
+        ],
+        "intro": {
+            "text": "intro.md"
+        },
+        "finish": {
+            "text": "finish.md"
+        },
+        "video": {}
+    },
+    "environment": {
+        "uilayout": "editor-terminal"
+    },
+    "backend": {
+        "imageid": "alpine"
+    }
+}
